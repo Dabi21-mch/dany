@@ -1,0 +1,55 @@
+body{
+    background-color:rgb(190, 101, 101);
+
+    color: white;
+}
+hr{
+    width: 70%;
+    height: 1.5px;
+    background: white;
+    margin-left: 0px;
+    
+}
+hr.faint{
+position: relative;
+top: 20px;
+border: none;
+height: 0.1px;
+background: white;
+margin-bottom: 50px;
+}
+
+form{
+    background-color:rgb(48, 48, 77) ;
+    padding: 2px;
+    padding-left: 5%;
+    padding-bottom: 2%;
+    padding-right: none;
+    width: 40%;
+    height: 40%;
+    margin-right: auto;
+    margin-left: auto;
+    
+}
+i{
+    color: rgb(190, 101, 101);
+    margin-right: 2%;
+}
+button{
+    background-color:rgb(243, 70, 156);
+    border-color: rgb(190, 101, 101);
+    color: white;
+    padding: 1%;
+    border-radius: 20px;
+    width: 110px;
+    margin-left: 20%;
+    
+}
+textarea{
+    background-color: rgb(48, 48, 77);
+    width:70% ;
+}
+h1{
+    margin-left: 15%;
+    
+}
